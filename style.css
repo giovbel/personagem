@@ -1,0 +1,55 @@
+h1{
+    font-family: inherit;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    color: rgb(216, 9, 120);
+    background-color: rgb(255, 227, 242);
+}
+h2{
+    color: rgb(255, 136, 211);
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    font-size: 20px;
+    background-color: rgb(255, 136, 211);
+}
+P{
+    color: rgb(139, 1, 75);
+    text-align: center;
+    font: lighter;
+    font-size: 27px;
+    margin-bottom: 50px;
+}
+body{
+    background-color: rgb(243, 221, 231);
+}
+img{
+    display:block;
+    margin: auto;
+    block-size: 400px;
+}
+footer{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: crimson;
+}
+h4{
+    color: rgb(105, 10, 61);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    margin-bottom: 50px;
+}
+h5{
+    color: rgb(112, 11, 65);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    margin-bottom: 50px;
+}
+h6{
+    color: rgb(243, 221, 231);
+}
